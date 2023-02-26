@@ -1,1 +1,1 @@
-# hexlet-git course
+Hello, Hexlet! How are you?
